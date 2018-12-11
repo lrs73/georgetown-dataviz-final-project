@@ -65,3 +65,11 @@ h2.subhead {
   font-size: 20px;
   font-family: Helvetica, Arial, Sans-Serif;
 }
+
+.chart img {
+  display: block;
+  max-width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  height: auto;
+}
